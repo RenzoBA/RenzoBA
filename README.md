@@ -1,15 +1,13 @@
-# Hi there! I'm Renzo👋
+# Hi there! I'm Renzo 👋
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" />
 
 
-- 🔭 Mechanical-Electrical Engineer & Software Developer
-- 🌎 Based in Piura, Peru
+- 🔭 Mechanical-Electrical Engineer && Software Developer
+- 🌎 Based in Peru
 - 🌱 Currently learning Docker
 
 ## 📫 How to reach me:
 
-<div style="display: flex; justify-content: space-between; width: full">
-  
 <a href="https://www.linkedin.com/in/renzo-bocanegra-dev/" style="margin-left: 20px;">
   <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Linkedin_circle.svg" />
   <span>Linkedin</span>
@@ -26,8 +24,6 @@
   <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Twemoji_1f600.svg">
   <span>Portfolio</span>
 </a>
-</div>
-<br />
 
 # Tech Stack:
 
@@ -63,12 +59,10 @@
 ![VSCode](https://camo.githubusercontent.com/333efdf3d52583cf7c536e5364439a833bb89c25afffbb42550c2bf0ce260827/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f2b436f646526636f6c6f723d303037414343266c6f676f3d56697375616c2b53747564696f2b436f6465266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Docker](https://camo.githubusercontent.com/4ec342876a40b53ffc6230a41196528690f9f42b1098fd354df46c649720b4c6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446f636b657226636f6c6f723d323439364544266c6f676f3d446f636b6572266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br />
 
 # Languages:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoBA&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<br />
 
 # 🏆 GitHub Trophies
 
