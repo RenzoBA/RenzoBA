@@ -4,7 +4,7 @@
 
 - 🔭 Mechanical-Electrical Engineer && Software Developer
 - 🌎 Based in Peru
-- 🌱 Currently learning Docker
+- 🌱 Currently learning Microservices
 
 ## 📫 How to reach me:
 
